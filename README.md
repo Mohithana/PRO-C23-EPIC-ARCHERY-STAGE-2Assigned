@@ -1,1 +1,1 @@
-# PRO-C23-EPIC-ARCHERY-STAGE-2Assigned
+# project-c23-template
